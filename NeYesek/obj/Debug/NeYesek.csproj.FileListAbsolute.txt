@@ -1,0 +1,20 @@
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Debug\NeYesek.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Debug\NeYesek.exe
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Debug\NeYesek.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.TariflerForm.resources
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.Properties.Resources.resources
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.csproj.GenerateResource.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.exe
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Debug\NeYesek.pdb
+D:\Visual Studio Projelerim\NeYesek\NeYesek\bin\Debug\NeYesek.exe.config
+D:\Visual Studio Projelerim\NeYesek\NeYesek\bin\Debug\NeYesek.exe
+D:\Visual Studio Projelerim\NeYesek\NeYesek\bin\Debug\NeYesek.pdb
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.csprojAssemblyReference.cache
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.TariflerForm.resources
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.Properties.Resources.resources
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.csproj.GenerateResource.cache
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.exe
+D:\Visual Studio Projelerim\NeYesek\NeYesek\obj\Debug\NeYesek.pdb

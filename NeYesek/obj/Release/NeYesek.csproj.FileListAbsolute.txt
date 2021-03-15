@@ -1,0 +1,10 @@
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Release\NeYesek.exe.config
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Release\NeYesek.exe
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\bin\Release\NeYesek.pdb
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.csprojAssemblyReference.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.TariflerForm.resources
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.Properties.Resources.resources
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.csproj.GenerateResource.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.csproj.CoreCompileInputs.cache
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.exe
+C:\Users\AYSEGUL.YANIK\source\repos\NeYesek\NeYesek\obj\Release\NeYesek.pdb
